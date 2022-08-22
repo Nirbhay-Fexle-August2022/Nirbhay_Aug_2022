@@ -1,0 +1,6 @@
+Class person{
+	public:
+	int data;
+	int person;
+
+};
