@@ -4,3 +4,4 @@ Class person{
 	int person;
 
 };
+class boy{};
