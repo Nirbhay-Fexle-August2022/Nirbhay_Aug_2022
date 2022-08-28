@@ -1,6 +1,8 @@
 Class person{
 	public:
 	int data;
+	int field4;
+	int field5;
 	int person;
 
 };
